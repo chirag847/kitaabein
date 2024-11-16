@@ -1,0 +1,90 @@
+[
+  {
+    "id":1,
+    "name":"story book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":2,
+    "name":"story book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":3,
+    "name":"Music book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":100,
+    "category":"song",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":4,
+    "name":"story book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":5,
+    "name":"Food book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":200,
+    "category":"Food",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":6,
+    "name":"story book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":7,
+    "name":"story book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":8,
+    "name":"sport book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":50,
+    "category":"Game",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":9,
+    "name":"story book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":10,
+    "name":"toy book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":20,
+    "category":"Comics",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  },
+  {
+    "id":11,
+    "name":"story book",
+    "title":"lorem, ipsum dolar sit consecteture adipicising elit.",
+    "price":0,
+    "category":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1725691200~exp=1725694800~hmac=0076404927b30a4942861e521acad6b264c5cdbd5fcad9c7df7a0364ae9742e0&w=740"
+  }
+]
