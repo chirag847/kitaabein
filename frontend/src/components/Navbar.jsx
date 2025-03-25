@@ -37,8 +37,8 @@ function Navbar() {
   const items=(
 <>
       <li><Link href="/">Home</Link></li>
-      <li><a href="/course">Course</a></li>
-      <li><a href='/contacts'>Contact</a></li>
+      <li><Link href="/course">Course</Link></li>
+      <li><Link href='/contacts'>Contact</Link></li>
       <li><a href='/About'>About</a></li>
 </>
   );
