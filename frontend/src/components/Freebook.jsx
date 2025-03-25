@@ -6,7 +6,7 @@ import Slider from "react-slick";
 
 
 import list from '../../public/list.json'
-import Cards from './cards';
+import Cards from './Cards';
 function Freebook() {
   const filterdata =list.filter((data)=>data.category==="free");
 
