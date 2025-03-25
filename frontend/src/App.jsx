@@ -1,10 +1,10 @@
 import React from 'react'
-import Home from './Home/Home';
+import Home from './home/Home';
 import Course from './components/Course';
 import {Route,Routes} from "react-router-dom"
 import Courses from './courses/Courses';
 import Signup from './components/Signup';
-import Abouts from './Abouts/abouts';
+import Abouts from './Abouts/Abouts';
 import Contacts from './contacts/contacts';
 function App() {
   return (
